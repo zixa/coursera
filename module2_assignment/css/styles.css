@@ -3,8 +3,11 @@
 	margin: 0;
 	padding: 0;
 }
-
+h1, h2 {
+	font-family: Arial, Helvetica, sans-serif;
+}
 h1 {
+	font-size: 1.75em;
 	margin-top: 25px;
 	text-align: center;
 }
@@ -20,6 +23,7 @@ h1 {
 }
 
 h2 {
+	font-size: 1.25em;
 	background: #f00;
 	position: absolute;
 	margin: 0;
@@ -40,6 +44,7 @@ h2.sushi {
 	background: #ba8fc1;
 }
 p {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
 	margin-top: 25px;
 	padding: 10px;
 }
